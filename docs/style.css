@@ -15,3 +15,7 @@ ul {
 .nav {
 	margin-bottom: 30px;
 }
+
+img[usemap] {
+	max-width: 100%;
+}
